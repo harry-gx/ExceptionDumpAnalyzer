@@ -1,0 +1,4 @@
+Perform common initialization for clocks and LPIT:
+• Initialize System Oscillator (SOSC) 
+• Initialize LPIT channel (1 second timeout) 
+• Toggle output to LED every LPIT timeout 
